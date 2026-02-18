@@ -1,7 +1,8 @@
 'use client'
 
 import { useEffect, useState } from 'react'
-import { Menu, X, Github, Linkedin, Mail, ExternalLink, ArrowRight, Eye, Navigation, Zap, Users, Shield, MessageSquare, Moon, Sun, Play, Download, X as XIcon } from 'lucide-react'
+import { Menu, X, Github, Linkedin, Mail, ExternalLink, ArrowRight, Eye, Navigation, Zap, Users, Shield, MessageSquare, Moon, Sun, Play, Download, X as XIcon, Images } from 'lucide-react'
+
 
 export default function Page() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
@@ -36,6 +37,7 @@ export default function Page() {
       name: 'Dr. Rose-Mary Gyening',
       role: 'Project Supervisor',
       bio: 'Leads the project vision ensuring accessibility and impact-driven research.',
+      
       image: 'https://media.licdn.com/dms/image/v2/D4D03AQHzdF_UMTqBow/profile-displayphoto-scale_200_200/B4DZlZhH3GJAAY-/0/1758143482288?e=1773273600&v=beta&t=uFFOT762eafFo3EHTV7dj6guScW4Eo7cUd3V1uQMZe4',
     },
     {
