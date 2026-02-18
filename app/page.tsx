@@ -36,25 +36,25 @@ export default function Page() {
       name: 'Dr. Rose-Mary Gyening',
       role: 'Project Supervisor',
       bio: 'Leads the project vision ensuring accessibility and impact-driven research.',
-      image: 'https://vm-s48cv5ntstlu28n64p6lxd.vusercontent.net/team-rosemary-new.jpg',
+      image: 'https://media.licdn.com/dms/image/v2/D4D03AQHzdF_UMTqBow/profile-displayphoto-scale_200_200/B4DZlZhH3GJAAY-/0/1758143482288?e=1773273600&v=beta&t=uFFOT762eafFo3EHTV7dj6guScW4Eo7cUd3V1uQMZe4',
     },
     {
-      name: 'ODED Asiedu',
+      name: 'ODED ASIEDU',
       role: 'AI Researcher',
       bio: 'Specializes in computer vision and AI model development for assistive technologies.',
-      image: 'https://vm-s48cv5ntstlu28n64p6lxd.vusercontent.net/team-oded.jpg',
+      image: 'https://media.licdn.com/dms/image/v2/D4E03AQGm_BMMUYre1w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1701747542547?e=1773273600&v=beta&t=E-0gglilhHRbCpBsvJkccARRSvx4fBb6oFBHSf5maJg',
     },
     {
       name: 'Dickson Marfo',
       role: 'AI Researcher',
       bio: 'Expert in machine learning and real-time navigation algorithms.',
-      image: 'https://vm-s48cv5ntstlu28n64p6lxd.vusercontent.net/team-dickson.jpg',
+      image: 'https://media.licdn.com/dms/image/v2/D4E03AQFj2IIvZKCB_g/profile-displayphoto-scale_200_200/B4EZm6c.4pIMAc-/0/1759769784884?e=1773273600&v=beta&t=o7VIpVc1m_7E1t81mgPTCHw2Wv-sSHE_FNyLiWqZYVk',
     },
     {
       name: 'Ama Branoa Banful',
       role: 'AI Researcher',
       bio: 'Specializes in natural language processing and user interface optimization for accessibility.',
-      image: 'https://vm-s48cv5ntstlu28n64p6lxd.vusercontent.net/team-ama.jpg',
+      image: 'https://media.licdn.com/dms/image/v2/D4D03AQFmF39ziK6pNA/profile-displayphoto-scale_200_200/B4DZu8rf3UJ8Ac-/0/1768397094833?e=1773273600&v=beta&t=L0eDBhHTuUBcCyl-GIJUPzxCg9xtB0lZvSmZEKLESxs',
     },
   ]
 
