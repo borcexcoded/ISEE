@@ -9,7 +9,8 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: 'ISEE - AI Assistive Navigation Technology',
   description: 'Making the world more accessible with AI-powered navigation for visually impaired individuals.',
-  generator: 'v0.app',
+  generator: 'ISEE',
+  creator: 'ISEE
   icons: {
     icon: [
       {
